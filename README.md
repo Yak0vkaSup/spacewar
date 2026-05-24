@@ -108,3 +108,6 @@ Ouvrir le projet avec Unity `6000.2.14f1`, vérifier que la plateforme active es
 
 - Iakov Belkov
 - Adrien Brunet
+
+## lien google drive avec video et apk 
+- https://drive.google.com/drive/folders/1E-EkngVn0rOK_-4CEp2Md13rOU6OPmon?usp=share_link
