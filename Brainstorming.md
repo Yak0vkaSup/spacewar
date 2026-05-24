@@ -36,9 +36,9 @@ Pablo Picasso, durant sa « période bleue », **a intensément exploré le
 
 regarder Spaceman
 
-![image.png](Brainstorming/image.png)
+![image.png](Brainstorming_photos/image.png)
 
-![image.png](Brainstorming/image%201.png)
+![image.png](Brainstorming_photos/image%201.png)
 
 Objectif : Fatalisme
 
@@ -48,10 +48,10 @@ Asset spaceship : [https://assetstore.unity.com/packages/3d/vehicles/space/destr
 
 lowpoly : [https://assetstore.unity.com/packages/3d/environments/sci-fi/lowpoly-spaceship-183012](https://assetstore.unity.com/packages/3d/environments/sci-fi/lowpoly-spaceship-183012)
 
-![mfSibNY.jpg](Brainstorming/mfSibNY.jpg)
+![mfSibNY.jpg](Brainstorming_photos/mfSibNY.jpg)
 
-![image.png](Brainstorming/image%202.png)
+![image.png](Brainstorming_photos/image%202.png)
 
-![image.png](Brainstorming/image%203.png)
+![image.png](Brainstorming_photos/image%203.png)
 
-![4fa9758c-a389-46ea-b6ba-3a025a237028.png](Brainstorming/4fa9758c-a389-46ea-b6ba-3a025a237028.png)
+![4fa9758c-a389-46ea-b6ba-3a025a237028.png](Brainstorming_photos/4fa9758c-a389-46ea-b6ba-3a025a237028.png)
